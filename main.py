@@ -1,12 +1,10 @@
-from tkinter import Tk
-from gui.login_window import Login_window
-
+from gui import login_dialog
+import tkinter as tk
 
 def main():
-    root = Tk()
-    app = Login_window(root)
+    root = tk.Tk()
+    app = login_dialog.LoginWindow(root)
     root.mainloop()
-
 
 if __name__ == "__main__":
     main()
