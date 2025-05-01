@@ -37,7 +37,7 @@ class cust__Win :
 
            #=======================Logo==================
 
-          img2=Image.open("Image/logo2.jpg")
+          img2=Image.open("resources\images\logo2.jpg")
 
           # img2.resize((100,40),Image.Resampling.LANCZOS)
           self.photoimg2=ImageTk.PhotoImage(img2)

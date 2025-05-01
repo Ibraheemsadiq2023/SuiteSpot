@@ -3,7 +3,7 @@ from tkinter import ttk
 from PIL import Image,ImageTk #pip install pillow
 from tkinter import messagebox
 import mysql.connector
-from Main import HotelManagementSystem
+from main_window import HotelManagementSystem
 
 def main():
     root=Tk()

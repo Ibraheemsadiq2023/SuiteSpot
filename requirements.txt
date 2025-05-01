@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+
+mysql-connector-python
+python==3.0.19
+pymysql==0.9.3
+mysqlclient==1.4.4
+
+tk
+sqlite3
+
