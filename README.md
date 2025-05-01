@@ -43,8 +43,8 @@
 # 👋 Introducing `Suitespot`
 
 <p align="center">
-    <a href="./screenshot/landing.png" target="blank"/>
-        <img src="" alt="landing" />
+    <a href="" target="blank"/>
+        <img src="./screenshot/landing.png" alt="landing" />
     </a>
 </p>
 
