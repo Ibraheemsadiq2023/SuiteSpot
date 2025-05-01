@@ -43,7 +43,7 @@
 # 👋 Introducing `Suitespot`
 
 <p align="center">
-    <a href="https://tryshape.vercel.app" target="blank"/>
+    <a href="./screenshot/landing.png" target="blank"/>
         <img src="" alt="landing" />
     </a>
 </p>
