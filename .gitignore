@@ -21,6 +21,9 @@
 *.la
 *.a
 *.lib
+# ignore __pycache__ directories
+__pycache__
+test.__pycache__
 
 # Executables
 *.exe
