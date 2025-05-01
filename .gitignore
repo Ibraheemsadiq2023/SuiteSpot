@@ -16,17 +16,18 @@
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
-
 # Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
+# ignore __pycache__ directories
+__pycache__
+test.__pycache__
 
 # Executables
 *.exe
 *.out
 *.app
+
+.vscode

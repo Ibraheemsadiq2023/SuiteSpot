@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 
-mysql-connector-python
-python==3.0.19
-pymysql==0.9.3
-mysqlclient==1.4.4
-
+mysql-connector-python==9.3.0
+python==3.13.2
+pymysql==9.3.0
+mysqlclient== 2.2.7
+pillow==11.1.0
+requests==2.28.2
+tkcalender==1.6.3
 tk
 sqlite3
 
