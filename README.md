@@ -89,7 +89,7 @@ cd Suitespot
 # Install the required dependencies
 pip install -r requirements.txt
 # Run the application
-python app.py
+python login.py
 ```
 # 📚 Documentation
 You can find the complete documentation for `Suitespot` in the `docs` folder.
