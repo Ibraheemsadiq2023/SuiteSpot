@@ -86,10 +86,10 @@ To install Suitespot, you can use the following command:
 git clone https://github.com/iamAntimpal/Suitespot.git
 # Navigate to the repository directory
 cd Suitespot
-# Install the dependencies
-npm install
-# Start the development server
-npm start
+# Install the required dependencies
+pip install -r requirements.txt
+# Run the application
+python app.py
 ```
 # 📚 Documentation
 You can find the complete documentation for `Suitespot` in the `docs` folder.
@@ -100,6 +100,18 @@ That's All!!! Now open [localhost:3000](http://localhost:3000/) to see the app.
 
 # 🍔 Built With
 
+| Language / Tech       | Description                         | Version Used      |
+| --------------------- | ----------------------------------- | ----------------- |
+| 🐍 Python             | Core programming language           | 3.10+             |
+| 🖼️ Tkinter           | GUI framework (Python standard lib) | Built-in (3.10+)  |
+| 🗃️ SQLite            | Lightweight embedded database       | 3.31+             |
+| 🧪 Pytest             | Unit testing framework              | ^7.0              |
+| 🎨 ttk / ttkbootstrap | Themed widgets for enhanced UI      | Optional / latest |
+| 🧰 Git & GitHub       | Version control & collaboration     | Git 2.30+         |
+| ⚙️ GitHub Actions     | CI/CD automation                    | YAML-based        |
+| 📋 Flake8 + Black     | Code linting & formatting           | ^6.1 / ^23.0      |
+| 📦 PyInstaller        | Packaging desktop app               | ^5.13             |
+
 # 🛡️ License
 
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
@@ -108,8 +120,8 @@ This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) fi
 
 `Suitespot` has all the potentials to grow further. Here are some of the upcoming features planned(not in any order),
 
-- ✔️ .
-- ✔️ 
+- ✔️ Dashboard
+- ✔️ Analysis about data in Hotel
 - ✔️ 
 - ✔️ 
 
@@ -139,9 +151,8 @@ If you found the app helpful, consider supporting us with a coffee.
 A ⭐️ to <b>SuiteSpot</b> is to build its triceps 💪 stronger.
 </h3>
 
-## Contributors ✨
+<!-- ## Contributors ✨ -->
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 
 <!-- markdownlint-restore -->
