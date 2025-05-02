@@ -91,12 +91,6 @@ pip install -r requirements.txt
 # Run the application
 python login.py
 ```
-# 📚 Documentation
-You can find the complete documentation for `Suitespot` in the `docs` folder.
-# 📚 How to Set up `Suitespot` for Development?
-
-
-That's All!!! Now open [localhost:3000](http://localhost:3000/) to see the app.
 
 # 🍔 Built With
 
