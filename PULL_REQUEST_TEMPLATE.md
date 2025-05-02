@@ -1,17 +1,3 @@
-# PULL_REQUEST_TEMPLATE.md
-
-## Pull Request Template
-
-### Description
-
-Please include a summary of the changes and the related issue. List any dependencies that are required for this change.
-
-- **Related Issue**: [Issue #]
-- **Summary of Changes**:
-  - [ ] Added/Updated feature X
-  - [ ] Fixed bug Y
-  - [ ] Refactored Z
-
 ### Checklist
 
 Please ensure the following are completed before submitting the pull request:
